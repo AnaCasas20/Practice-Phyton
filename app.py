@@ -1,0 +1,5 @@
+first = input('First:')
+second = input('Second:')
+sum1 = int(first) + int(second)
+sum2 = int(1000)
+print(sum1+sum2)
